@@ -1,2 +1,5 @@
-# icosaf
-Progetto ICOSAF - Integrated collaborative systems for smart factory   Codice Progetto ARS01_00861  - OR4
+# Progetto ICOSAF
+## Integrated collaborative systems for smart factory 
+
+### OR4
+Repository Source Data Collector and Ingestion Layer per Dati non strutturati
